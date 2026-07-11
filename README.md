@@ -37,7 +37,6 @@ customer-churn-analysis-python/
 ├── images/
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ---
