@@ -86,7 +86,7 @@ Foram gerados gráficos para analisar o impacto das variáveis sobre o cancelame
 
 #### Ligações ao Call Center
 
-![Call Center](images/call_center.png)
+![Call Center](images/ligacaos_callcenter.png)
 
 #### Dias de atraso
 
