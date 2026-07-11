@@ -34,7 +34,6 @@ A análise foi realizada sobre uma base de clientes com o objetivo de identifica
 customer-churn-analysis-python/
 │
 ├── data/
-├── notebooks/
 ├── images/
 ├── README.md
 ├── requirements.txt
