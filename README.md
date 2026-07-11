@@ -82,7 +82,7 @@ Foram gerados gráficos para analisar o impacto das variáveis sobre o cancelame
 
 #### Contrato
 
-![Contrato](images/contrato_mensal.png)
+![Contrato](images/duracao_contato.png)
 
 #### Ligações ao Call Center
 
